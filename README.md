@@ -30,6 +30,7 @@ Run magVStime.m and allow some time for the process to finish running. After the
 ![](magFluc_1_2.gif)
 
 Average magnetisation strength to T = 1 is 0.9992 
+
 Average magnetisation strength to T = 2 is 0.8977 
 
 
