@@ -37,4 +37,5 @@ Average magnetisation strength to T = 2 is 0.8977
 ![](magFluc_2.27_4.gif)
 
 Average magnetisation strength to T = 2.27 is 0.4501 
+
 Average magnetisation strength to T = 4    is 0.0071 
